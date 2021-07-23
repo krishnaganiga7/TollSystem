@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: vinaykrishnasudarshana
+Build-Jdk: 15.0.1
+Implementation-Title: demo-eureka-tollrate-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: eureka.demo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/demo-eureka-to
+ llrate-service/
+Created-By: Maven Integration for Eclipse
+
